@@ -1,0 +1,137 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV1.cn" status="online",CCTV-1综合 (1080p)
+http://183.207.249.9/PLTV/3/224/3221225530/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn" status="online",CCTV-1综合 (1080p)
+http://183.207.249.15/PLTV/3/224/3221225530/index.m3u8
+#EXTINF:-1 ,CCTV-1
+http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 ,CCTV-1
+http://39.135.138.58:18890/PLTV/88888888/224/3221225630/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/ce/CCTV-2_Logo.png" group-title="Business",CCTV-2财经 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+#EXTINF:-1 ,CCTV-2
+http://39.134.65.181/PLTV/88888888/224/3221225599/1.m3u8
+#EXTINF:-1 tvg-id="CCTV3.cn" status="online",CCTV-3综艺 (1080p)
+http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3.cn" status="online",CCTV-3综艺 (1080p)
+http://183.207.249.35/PLTV/4/224/3221227295/index.m3u8
+#EXTINF:-1 ,CCTV-3
+http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
+#EXTINF:-1 ,CCTV-3
+http://39.134.67.226/PLTV/88888888/224/3221225799/index.m3u8
+#EXTINF:-1 tvg-id="" status="online",CCTV-4中文国际 (1080p)
+http://183.207.249.11/PLTV/3/224/3221225534/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="Undefined",CCTV-4中文国际 (1080p)
+http://183.207.249.6/PLTV/3/224/3221225534/index.m3u8
+#EXTINF:-1 ,CCTV-4
+http://39.134.66.110/PLTV/88888888/224/3221225797/index.m3u8
+#EXTINF:-1 ,CCTV-5体育
+http://140.207.241.3:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-5
+http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" status="online",CCTV-5+体育赛事 (1080p)
+http://183.207.249.14/PLTV/3/224/3221225604/index.m3u8
+#EXTINF:-1 ,CCTV-5+赛事
+http://39.134.66.110/PLTV/88888888/224/3221225507/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" status="online",CCTV-5+体育赛事 (1080p)
+http://183.207.249.14/PLTV/3/224/3221225604/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6.cn" status="online",CCTV-6电影 (1080p)
+http://183.207.248.37/PLTV/3/224/3221227209/index.m3u8
+#EXTINF:-1 ,CCTV-6
+http://39.134.65.181/PLTV/88888888/224/3221225814/1.m3u8
+#EXTINF:-1 ,CCTV-6
+http://39.134.65.173/PLTV/88888888/224/3221225814/1.m3u8
+#EXTINF:-1 ,CCTV-6
+http://39.134.65.183/PLTV/88888888/224/3221225814/1.m3u8
+#EXTINF:-1 tvg-id="CCTV7.cn" status="online",CCTV-7国防军事 (1080p)
+http://183.207.248.10/PLTV/3/224/3221225546/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7.cn" status="online",CCTV-7国防军事 (1080p)
+http://183.207.249.15/PLTV/3/224/3221225546/index.m3u8
+#EXTINF:-1 ,CCTV-7
+http://39.134.66.110/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8.cn" status="online",CCTV-8电视剧 (1080p)
+http://183.207.248.12/PLTV/3/224/3221227204/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8.cn" status="online",CCTV-8电视剧 (1080p)
+http://183.207.248.35/PLTV/3/224/3221227205/index.m3u8
+#EXTINF:-1 ,CCTV-8
+http://39.134.65.173/PLTV/88888888/224/3221225795/1.m3u8
+#EXTINF:-1 tvg-id="CCTV9.cn" status="online",CCTV-9纪录 (1080p)
+http://183.207.249.6/PLTV/3/224/3221225532/index.m3u8
+#EXTINF:-1 ,CCTV-9
+http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 ,CCTV-9
+http://39.134.65.179/PLTV/88888888/224/3221225676/1.m3u8
+#EXTINF:-1 ,CCTV-10
+http://39.134.66.110/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 ,CCTV-10
+http://39.134.65.164/PLTV/88888888/224/3221225677/1.m3u8
+#EXTINF:-1 ,CCTV-10
+http://39.134.65.181/PLTV/88888888/224/3221225677/1.m3u8
+#EXTINF:-1 ,CCTV-11
+http://39.134.65.179/PLTV/88888888/224/3221225517/1.m3u8
+#EXTINF:-1 ,CCTV-11
+http://39.134.66.110/PLTV/88888888/224/3221225517/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12.cn" status="online",CCTV-12社会与法制 (1080p)
+http://183.207.249.7/PLTV/3/224/3221225556/index.m3u8
+#EXTINF:-1 ,CCTV-12
+http://39.134.65.179/PLTV/88888888/224/3221225669/1.m3u8
+#EXTINF:-1 ,CCTV-12
+http://39.134.65.164/PLTV/88888888/224/3221225669/1.m3u8
+#EXTINF:-1 tvg-id="CCTV13.cn" status="online",CCTV-13新闻 (1080p)
+http://183.207.249.14/PLTV/3/224/3221225560/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13.cn" status="online",CCTV-13新闻 (1080p)
+http://183.207.249.36/PLTV/4/224/3221227387/index.m3u8
+#EXTINF:-1 ,CCTV-13
+http://39.134.66.110/PLTV/88888888/224/3221225812/index.m3u8
+#EXTINF:-1 ,CCTV-14
+http://111.40.196.9/PLTV/88888888/224/3221225573/index.m3u8
+#EXTINF:-1 ,CCTV-14
+http://39.134.65.179/PLTV/88888888/224/3221225674/1.m3u8
+#EXTINF:-1 ,CCTV-14
+http://39.134.66.110/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 ,CCTV-15
+http://39.134.65.181/PLTV/88888888/224/3221225513/1.m3u8
+#EXTINF:-1 ,CCTV-15
+http://39.134.65.173/PLTV/88888888/224/3221225513/1.m3u8
+#EXTINF:-1 ,CCTV-15
+http://39.134.66.110/PLTV/88888888/224/3221225513/index.m3u8
+#EXTINF:-1 ,CCTV-17
+http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
+#EXTINF:-1 tvg-id="" status="online",北京卫视 (1080p)
+http://183.207.249.7/PLTV/3/224/3221225574/index.m3u8
+#EXTINF:-1 ,北京卫视
+http://140.207.241.3:8080/live/program/live/bjwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" status="online",北京卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
+#EXTINF:-1 tvg-id="" status="online",安徽卫视 (1080p)
+http://183.207.249.15/PLTV/3/224/3221225634/index.m3u8
+#EXTINF:-1 ,东方卫视
+http://39.134.66.110/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-id="" status="online",黑龙江卫视 (1080p)
+http://183.207.249.36/PLTV/4/224/3221227323/index.m3u8
+#EXTINF:-1 tvg-id="" status="online",深圳卫视 (1080p)
+http://183.207.249.37/PLTV/4/224/3221227307/index.m3u8
+#EXTINF:-1 ,深圳卫视
+http://39.134.66.110/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 tvg-id="" status="online",海南卫视 (576p)
+http://183.207.248.11/PLTV/4/224/3221225810/index.m3u8
+#EXTINF:-1 tvg-id="" status="online",宁夏卫视 (576p)
+http://183.207.248.11/PLTV/4/224/3221225842/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="Undefined",浙江卫视 (1080p)
+http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="Undefined",湖南卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
+#EXTINF:-1 ,湖南卫视
+http://117.148.179.135/PLTV/88888888/224/3221230206/index.m3u8
+#EXTINF:-1 ,湖南卫视
+http://117.148.179.148/PLTV/88888888/224/3221230824/index.m3u8
+#EXTINF:-1 ,湖南卫视
+http://39.134.66.110/PLTV/88888888/224/3221225977/index.m3u8
+#EXTINF:-1 ,江苏卫视
+http://39.134.66.110/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 ,金鹰卡通
+http://39.134.66.110/PLTV/88888888/224/3221225561/index.m3u8
+#EXTINF:-1 ,西藏卫视
+http://39.134.66.110/PLTV/88888888/224/3221225570/index.m3u8
+#EXTINF:-1 ,贵州卫视
+http://39.134.66.110/PLTV/88888888/224/3221225576/index.m3u8
